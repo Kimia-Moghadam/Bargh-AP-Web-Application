@@ -1,0 +1,14 @@
+{
+  "Input_Month": "دی",
+  "Input_No_Days": "14",
+  "Input_No_Fridays": "3",
+  "Input_Low_Load_Hours": "9",
+  "Input_Mid_Load_Hours": "5",
+  "Input_High_Load_Hours": "241",
+  "Input_Low_Load_Electricity_Market_Price_Max": "532",
+  "Input_Mid_Load_Electricity_Market_Price_Max": "2506",
+  "Input_High_Load_Electricity_Market_Price_Max": "2481",
+  "Input_Low_Load_Stock_Market_Price_Avg": "1276",
+  "Input_Mid_Load_Stock_Market_Price_Avg": "1282",
+  "Input_High_Load_Stock_Market_Price_Avg": "1284"
+}

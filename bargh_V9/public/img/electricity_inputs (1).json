@@ -1,0 +1,14 @@
+{
+  "Input_Month": "خرداد",
+  "Input_No_Days": "4",
+  "Input_No_Fridays": "2",
+  "Input_Low_Load_Hours": "55",
+  "Input_Mid_Load_Hours": "43545",
+  "Input_High_Load_Hours": "241",
+  "Input_Low_Load_Electricity_Market_Price_Max": "532",
+  "Input_Mid_Load_Electricity_Market_Price_Max": "2506",
+  "Input_High_Load_Electricity_Market_Price_Max": "24",
+  "Input_Low_Load_Stock_Market_Price_Avg": "524",
+  "Input_Mid_Load_Stock_Market_Price_Avg": "42",
+  "Input_High_Load_Stock_Market_Price_Avg": "1284"
+}

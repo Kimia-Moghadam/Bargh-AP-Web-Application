@@ -1,0 +1,49 @@
+@font-face {
+  font-family: 'BNazanin';
+  src: url('/fonts/B-Nazanin.woff') format('woff'),
+       url('/fonts/BNazanin.ttf') format('truetype');
+  font-weight: 700;  
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Vazir';
+  src: url('/fonts/Vazir-Light-FD-WOL.woff') format('woff'),
+       url('/fonts/Vazir-Light-FD-WOL.ttf') format('truetype');
+  font-weight: 700;  
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'yekanbakh-Medium';
+  src: url('/fonts/Yekan Bakh FA 05 Medium.woff') format('woff'),
+       url('/fonts/Yekan Bakh FA 05 Medium..ttf') format('truetype');
+  font-weight: 700;  
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'yekanbakh-regular';
+  src: url('/fonts/Yekan Bakh FA 04 Regular.woff') format('woff'),
+       url('/fonts/Yekan Bakh FA 04 Regular.ttf') format('truetype');
+  font-weight: 700;  
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'yekanbakh-bold';
+  src: url('/fonts/Yekan Bakh FA 06 Bold.woff') format('woff'),
+       url('/fonts/Yekan Bakh FA 06 Bold.ttf') format('truetype');
+  font-weight: 700;  
+  font-style: normal;
+  font-display: swap;
+}
+
+body, html, #root {
+  font-family: 'yekanbakh-bold', sans-serif !important;
+  font-weight: 700; 
+}
+
